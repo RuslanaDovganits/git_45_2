@@ -84,3 +84,15 @@ head a:hover {
     text-align: center;
     margin-top: 20px;
 }
+.njuwa{
+   background-color: chartreuse; 
+   border-radius: 8px;
+   width: 60%;
+   margin: 30px auto;
+   text-align: center;
+}
+.inna{
+    color: black;
+    font-size: large;
+    font-style: italic;
+}
